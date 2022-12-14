@@ -1,0 +1,16 @@
+img{width:600px;}
+
+.header{
+    vertical-align: middle;
+    font-size: 3.5em;
+    font-family: 'Lobster', cursive;
+    color:black
+    
+}
+
+body {
+    background-color: rgb(164, 164, 168);
+    color: rgb(24, 24, 107);
+  }
+
+  
